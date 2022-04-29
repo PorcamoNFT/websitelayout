@@ -1,0 +1,19 @@
+.card {
+  margin: 10px auto;
+  width: 850px;
+  height: 150px;
+}
+
+.Comments {
+  margin: 10px auto;
+  width: 150px;
+  height: 70px;
+  background-color: black;
+  color: whitesmoke;
+  padding: 9px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.Comments p {
+  text-align: center;
+}
